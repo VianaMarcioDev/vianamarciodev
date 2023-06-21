@@ -1,7 +1,6 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working on ZUP IT Innovation, Dev back-end Kotlin/Java with Spring Boot.
-- 🌱 I’m currently learning Android.
+- 🔭 I’m currently working on ZUP IT Innovation, Dev back-end Java/Kotlin with Spring Boot.
 - 📫 How to reach me: https://www.linkedin.com/in/marcio-de-freitas-viana/
 
 
