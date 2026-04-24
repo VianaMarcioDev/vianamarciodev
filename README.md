@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working on ZUP IT Innovation, Dev back-end Java/Kotlin with Spring Boot.
+- 🔭 I’m currently working on AVANADE Brasil, Dev back-end Java/Kotlin with Spring Boot.
 - 📫 How to reach me: https://www.linkedin.com/in/marcio-de-freitas-viana/
 
 
